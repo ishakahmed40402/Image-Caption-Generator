@@ -1,1 +1,2 @@
 # Image-Caption-Generator
+In this project, I developed an Image Caption Generator using a VGG16 feature extractor combined with an LSTM network to generate image descriptions. For this project, I also utilized the VisionEncoderDecoderModel of transforme, specifically the "nlpconnect/vit-gpt2-image-captioning" variant. This advanced model integrates a Vision Transformer (ViT) as the encoder and GPT-2 as the decoder. For both models, I used the Flickr8k dataset to train and evaluate image captioning performance.
